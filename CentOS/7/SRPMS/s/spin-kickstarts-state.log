@@ -1,0 +1,13 @@
+2023-01-03 10:37:23,307 - Mock Version: 2.17
+2023-01-03 10:37:24,117 - Start: yum update
+2023-01-03 10:37:32,548 - Finish: yum update
+2023-01-03 10:37:32,559 - Finish: chroot init
+2023-01-03 10:37:32,562 - Start: build phase for spin-kickstarts-0.36.0-0.3.el7.src.rpm
+2023-01-03 10:37:32,564 - Start: build setup for spin-kickstarts-0.36.0-0.3.el7.src.rpm
+2023-01-03 10:37:35,434 - Finish: build setup for spin-kickstarts-0.36.0-0.3.el7.src.rpm
+2023-01-03 10:37:35,435 - Start: Outputting list of installed packages
+2023-01-03 10:37:36,152 - Finish: Outputting list of installed packages
+2023-01-03 10:37:36,152 - Start: rpmbuild spin-kickstarts-0.36.0-0.3.el7.src.rpm
+2023-01-03 10:37:36,897 - Finish: rpmbuild spin-kickstarts-0.36.0-0.3.el7.src.rpm
+2023-01-03 10:37:36,904 - Finish: build phase for spin-kickstarts-0.36.0-0.3.el7.src.rpm
+2023-01-03 10:37:36,910 - Finish: run
