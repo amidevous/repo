@@ -1,0 +1,13 @@
+2023-01-03 06:00:11,210 - Mock Version: 2.17
+2023-01-03 06:00:12,036 - Start: yum update
+2023-01-03 06:00:18,691 - Finish: yum update
+2023-01-03 06:00:18,702 - Finish: chroot init
+2023-01-03 06:00:18,706 - Start: build phase for ffmpeg-fdk-aac-2.0.0-3.el7.src.rpm
+2023-01-03 06:00:18,707 - Start: build setup for ffmpeg-fdk-aac-2.0.0-3.el7.src.rpm
+2023-01-03 06:01:10,244 - Finish: build setup for ffmpeg-fdk-aac-2.0.0-3.el7.src.rpm
+2023-01-03 06:01:10,246 - Start: Outputting list of installed packages
+2023-01-03 06:01:11,033 - Finish: Outputting list of installed packages
+2023-01-03 06:01:11,033 - Start: rpmbuild ffmpeg-fdk-aac-2.0.0-3.el7.src.rpm
+2023-01-03 06:02:09,231 - Finish: rpmbuild ffmpeg-fdk-aac-2.0.0-3.el7.src.rpm
+2023-01-03 06:02:09,250 - Finish: build phase for ffmpeg-fdk-aac-2.0.0-3.el7.src.rpm
+2023-01-03 06:02:09,259 - Finish: run

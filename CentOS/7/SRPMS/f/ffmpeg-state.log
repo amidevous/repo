@@ -1,0 +1,13 @@
+2023-01-02 20:59:07,182 - Mock Version: 2.17
+2023-01-02 20:59:08,029 - Start: yum update
+2023-01-02 20:59:14,575 - Finish: yum update
+2023-01-02 20:59:14,588 - Finish: chroot init
+2023-01-02 20:59:14,593 - Start: build phase for ffmpeg-5.1.2-1.el7.src.rpm
+2023-01-02 20:59:14,595 - Start: build setup for ffmpeg-5.1.2-1.el7.src.rpm
+2023-01-02 20:59:22,786 - Finish: build setup for ffmpeg-5.1.2-1.el7.src.rpm
+2023-01-02 20:59:22,787 - Start: Outputting list of installed packages
+2023-01-02 20:59:23,488 - Finish: Outputting list of installed packages
+2023-01-02 20:59:23,488 - Start: rpmbuild ffmpeg-5.1.2-1.el7.src.rpm
+2023-01-02 21:00:24,871 - Finish: rpmbuild ffmpeg-5.1.2-1.el7.src.rpm
+2023-01-02 21:00:24,885 - Finish: build phase for ffmpeg-5.1.2-1.el7.src.rpm
+2023-01-02 21:00:24,896 - Finish: run

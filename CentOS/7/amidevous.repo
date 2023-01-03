@@ -1,0 +1,26 @@
+[amidevous]
+name=Amidevous for EL7 - $basearch
+baseurl=http://193.70.43.78/CentOS/7/$basearch/
+type=rpm-md
+skip_if_unavailable=True
+enabled=1
+gpgcheck=0
+enabled_metadata=1
+
+[amidevous-source]
+name=Amidevous for EL7 - Source
+baseurl=http://193.70.43.78/CentOS/7/SRPMS/
+type=rpm-md
+skip_if_unavailable=True
+enabled=0
+gpgcheck=0
+enabled_metadata=1
+
+[amidevous-debuginfo]
+name=Amidevous for EL7 - Source
+baseurl=http://193.70.43.78/CentOS/7/SRPMS/
+type=rpm-md
+skip_if_unavailable=True
+enabled=0
+gpgcheck=0
+enabled_metadata=1
